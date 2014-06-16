@@ -1,13 +1,3 @@
-/* Dies ist ein von mir geschriebenes Programm,
- * was ich am 20.3.2014 geschrieben habe.
- * Jetzt (also zum Zeitpunkts das ich fertig bin), 
- * ist es 18:42:10 Uhr :D
- * Es ist in C geschrieben und "verschlüsselt" deinen 
- * eingegebenen Text.	
- * Außerdem kann es deinen verschlüsselten Text wieder ent-
- * schlüsseln										*/	
- 
- 
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
