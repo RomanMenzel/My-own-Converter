@@ -1,7 +1,9 @@
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
+
 #define LEN 100
+
 char* a;
 int b;
 
